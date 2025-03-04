@@ -22,7 +22,9 @@ Long-term monitoring and exploration of extreme environments, such as underwater
 **Getting Started**
 ---------
 *Data Preparation*
+
 Training Data:
+
 Step 1:
 
 in `generate_data.py`, change 
