@@ -38,8 +38,10 @@ python generate_data.py
 ```
 
 You should get a folder named 'to_your_training_folder' with n images.
+
 ---------
 Step 2: 
+
 in `data_process.py`, change 
 ```
 input_images_dir = "./to_your_training_folder/"
